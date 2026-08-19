@@ -1,7 +1,5 @@
 ## Quantitative Finance & Data Analytics | Portfolio
-======================================================================================
- SUSTAINABLE INVESTING | EQUITY RESEARCH | FINANCIAL MODELING & DATA ANALYTICS
-======================================================================================
+
 
 ## BIO
 
