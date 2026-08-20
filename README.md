@@ -1,4 +1,4 @@
-## Quantitative Finance & Data Analytics | Portfolio
+## Quantitative Finance, Equity Research, Data Analytics & Visualization | Portfolio
 
 
 ## BIO
