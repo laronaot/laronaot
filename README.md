@@ -45,22 +45,21 @@ African multi-franchise conglomerate listed on the JSE.
 indicators, competitive sector dynamics, and systemic operational risks.
 
 
-# Botswana Stock Exchange (BSE) National Investment Competition
+# Botswana Stock Exchange (BSE) Stanbic Bank National Finance & Investment Competition 2025
 
 
-- Timeline: April-June 2025
 - Context: A 3-month intensive national stock market simulation tracking active
 equities and ETFs.
 - Highlights: Integrated real-time market monitoring with algorithmic-assisted trend screening to make rapid portfolio rebalancing and risk-allocation decisions under tight competition deadlines.
 
 
-# CFA Institute x AmplifyME Investing Challenge
+# CFA Institute x AmplifyME Investing Challenge 2025
 
 - Focus: Market Simulation & Risk Management
 - Application: Executed simulated trades in a live environment, balancing risk adjusted return parameters and stress-testing systemic portfolios against simulated economic shocks.
 
 
- # SANCS AI Agents Deployment & Cyber Resilience Challenge
+ # Southern Africa-Netherlands Cybersecurity School; AI Agents Deployment & Cyber Resilience Challenge 2026
 
 - Context: An 8-week Southern Africa-Netherlands Cyber Security School (3rd Edition)
 - Focus: Successfully deployed AI Agents within resilient framework architectures, proving security and systemic stability for data-driven pipelines.
@@ -79,7 +78,7 @@ equities and ETFs.
 
 ## Key Professional Certifications
 
-- Certificate of Proficiency - Long-Term Insurance Insurance Academy of Botswana | Feb 2026
+- Certificate of Proficiency - Long-Term Insurance (Insurance Academy of Botswana) | Feb 2026
 - Private Equity & Venture Capital Certificate (Università Commerciale Luigi Bocconi)
 - Accounting Analytics (The Wharton School, University of Pennsylvania)
 - Python & Statistics for Financial Analysis (Hong Kong University of Science and Technology)
